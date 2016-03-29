@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CuriosityStudios]]></title>
-        <description><![CDATA[CuriosityStudios]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Creativity comes from Curiosity.]]></title>
+        <description><![CDATA[Creativity comes from Curiosity.]]></description>
+        <link>https://thegrid.ai/curiositystudios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 02:45:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 02:56:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/curiositystudios/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/curiositystudios/9eea234e-c9c4-4441-a52d-e63caeabb912/index.html</link>
+            <guid isPermaLink="false">9eea234e-c9c4-4441-a52d-e63caeabb912</guid>
+            <pubDate>Tue, 29 Mar 2016 02:56:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Creativity comes from Curiosity.</p>]]></description>
-            <link>undefinedcreativity-comes-from-curiosity/index.html</link>
+            <link>https://thegrid.ai/curiositystudios/creativity-comes-from-curiosity/index.html</link>
             <guid isPermaLink="false">4386de54-930e-4d0a-98c1-530e4b39f2bc</guid>
             <pubDate>Tue, 29 Mar 2016 02:45:46 GMT</pubDate>
         </item>
