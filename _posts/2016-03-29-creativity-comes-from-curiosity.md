@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Creativity comes from Curiosity.
-datePublished: '2016-03-29T02:45:46.422Z'
-dateModified: '2016-03-29T02:44:26.355Z'
-title: ''
+datePublished: '2016-04-19T03:55:05.705Z'
+dateModified: '2016-03-29T02:52:07.688Z'
+title: Ever Wonder?
 author: []
+sourcePath: _posts/2016-03-29-creativity-comes-from-curiosity.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-29-creativity-comes-from-curiosity.md
-published: true
 url: creativity-comes-from-curiosity/index.html
 _type: Article
 
