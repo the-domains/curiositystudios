@@ -4,20 +4,21 @@
         <description><![CDATA[Creativity comes from Curiosity.]]></description>
         <link>https://thegrid.ai/curiositystudios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 02:56:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 03:55:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/curiositystudios/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://thegrid.ai/curiositystudios/9eea234e-c9c4-4441-a52d-e63caeabb912/index.html</link>
-            <guid isPermaLink="false">9eea234e-c9c4-4441-a52d-e63caeabb912</guid>
-            <pubDate>Tue, 29 Mar 2016 02:56:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[Ever Wonder?]]></title>
             <description><![CDATA[<p>Creativity comes from Curiosity.</p>]]></description>
             <link>https://thegrid.ai/curiositystudios/creativity-comes-from-curiosity/index.html</link>
             <guid isPermaLink="false">4386de54-930e-4d0a-98c1-530e4b39f2bc</guid>
-            <pubDate>Tue, 29 Mar 2016 02:45:46 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2016 03:55:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://i.ytimg.com/vi/SQEbPn36m1c/maxresdefault.jpg</p>]]></description>
+            <link>https://thegrid.ai/curiositystudios/9eea234e-c9c4-4441-a52d-e63caeabb912/index.html</link>
+            <guid isPermaLink="false">9eea234e-c9c4-4441-a52d-e63caeabb912</guid>
+            <pubDate>Tue, 29 Mar 2016 02:56:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
